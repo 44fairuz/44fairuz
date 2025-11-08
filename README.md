@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [44fairuz]!
+# 👋 Halo, Saya M. Fairuz Nadhir Amrullah!
 Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
 Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 
